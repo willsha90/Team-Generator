@@ -48,7 +48,7 @@ function addManager(){
         employees.push(new Manager(response.name, response.id, response.email, response.officeNumber));
         console.log("manager Created");
         mainMenu();
-    });    
+    });      
 }
 
 function addEngineer(){

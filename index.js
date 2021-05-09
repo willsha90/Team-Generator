@@ -27,7 +27,7 @@ const internQ = [...employeeQ,
 
 function beginApp(){
     console.log("welcome to my app");
-    mainMenu ();
+    mainMenu();
 }
 
 function mainMenu(){

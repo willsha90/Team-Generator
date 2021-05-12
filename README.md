@@ -6,8 +6,12 @@ Having utilized CSS, HTML, Javascript, the Inquirer NPM package and the NPM pack
 
 The application commences within the integrated terminal where the user is prompted to select the employee type and a set of questions. Once an employee type's questions are completed, they are taken back to the first page where they can either add another employee type or exit the application. Upon exiting the application, the user is presented with a quick message and taken to a HTML Generated site detailing each of their answers.
 
-<img src="Assets\HTML Output.JPG">
-
 
 Please see the tutorial below.
 https://www.youtube.com/watch?v=l-czmrcewaw
+
+A sample HTML file can be found below and/or via the team.html file.
+file:///C:/Users/shahe/OneDrive/Desktop/class_repos/Team-Generator/dist/team.html
+
+
+<img src="Assets\HTML Output.JPG">
